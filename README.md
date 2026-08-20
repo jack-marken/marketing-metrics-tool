@@ -17,7 +17,7 @@ $ npm i
 Create a `.env` file at the root path and add the Google Cloud Developer API key:
 
 ```text
-GOOGLE_CLOUD_API_KEY=[add key here]
+$ echo "GOOGLE_CLOUD_API_KEY=[add key here]" > .env
 ```
 
 # Usage instructions
